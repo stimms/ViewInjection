@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "ViewInjection"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-ViewInjection-971f598b-ee18-4a74-a439-6333d61eab37;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
